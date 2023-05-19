@@ -1,0 +1,24 @@
+body{
+    background-color: navajowhite;
+    text-align: center;
+    padding: 1rem;
+    max-width: 400px;
+    margin: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown
+}
+
+.clock{
+    font-size:4rem;
+}
+
+.day, .dayofWeek{
+font-size: 1.5rem;
+}
+
+.bottom{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 2rem;
+}
